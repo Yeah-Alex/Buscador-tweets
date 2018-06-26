@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buscador de tweets</string>
+    <string name="acerca">Acerca</string>
+    <string name="pagina">Página</string>
+    <string name="licencia">Licencia</string>
+    <string name="paginaHTML">file:///android_asset/www/index.html</string>
+</resources>

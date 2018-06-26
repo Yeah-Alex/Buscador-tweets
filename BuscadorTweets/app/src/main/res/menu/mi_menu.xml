@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esta obra está licenciada bajo la Licencia Creative Commons Atribución-NoComercial-SinDerivar 4.0 Internacional.
+Para ver una copia de esta licencia, visita http://creativecommons.org/licenses/by-nc-nd/4.0/.
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item android:id="@+id/acerca"
+            android:title="@string/acerca" />
+
+        <item android:id="@+id/pagina"
+            android:title="@string/pagina" />
+
+        <item android:id="@+id/licencia"
+            android:title="@string/licencia" />
+
+</menu>
